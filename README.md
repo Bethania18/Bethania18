@@ -1,16 +1,15 @@
-## Hi there 👋
+## ### Boas vindas ao meu perfil 💙 
 
-<!--
-**Bethania18/Bethania18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Bethania Martins
+                                                                                                                                                                      
+- Estou estudando na Alura;
+- Estou me desenvolvendo na linguagem JavasCript
+- Utilizo esse espaco para minha organizacão e compartilhamento dos meus projetos
 
-Here are some ideas to get you started:
+  ### Vocẽ entrar em contato comigo📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  abethania@gmail.com
+
+@oi_bẽalmeida
+
+![]([(https://media1.tenor.com/m/ME7LU5WZaUIAAAAC/%E5%AF%AB%E8%BC%AA%E7%9C%BC.gif)])
